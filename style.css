@@ -95,10 +95,10 @@ ul {
     color: #5D12E7;
     line-height: 30px;
     transition: font-size 0.3s ease;
-    transition: -o-font-size 0.3s ease;
-    transition: -ms-font-size 0.3s ease;
-    transition: -moz-font-size 0.3s ease;
-    transition: -webkit-font-size 0.3s ease;
+    -o-transition: font-size 0.3s ease;
+    -webkit-transition: font-size 0.3s ease;
+    -ms-transition: font-size 0.3s ease;
+    -moz-transition: font-size 0.3s ease;
 }
 
 #menu ul li a:hover,
@@ -159,10 +159,10 @@ ul {
     font-size: 23px;
     font-weight: bold;
     transition: font-size 0.3s ease;
-    transition: -o-font-size 0.3s ease;
-    transition: -ms-font-size 0.3s ease;
-    transition: -moz-font-size 0.3s ease;
-    transition: -webkit-font-size 0.3s ease;
+    -o-transition: font-size 0.3s ease;
+    -webkit-transition: font-size 0.3s ease;
+    -ms-transition: font-size 0.3s ease;
+    -moz-transition: font-size 0.3s ease;
 }
 
 #leftsidebar {
